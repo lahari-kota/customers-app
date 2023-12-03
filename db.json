@@ -1,0 +1,76 @@
+{
+  "customers": [
+    {
+      "first_name": "Lahari",
+      "last_name": "Kota",
+      "age": "100",
+      "city": "Amarapuram",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "id": "jFc4HBD"
+    },
+    {
+      "first_name": "Lahari",
+      "last_name": "Kota",
+      "age": "7000",
+      "city": "Amarapuram",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "id": "59utERG"
+    },
+    {
+      "first_name": "La1",
+      "last_name": "Kota",
+      "age": "100",
+      "city": "Amarapuram",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "id": "kixWXuM"
+    },
+    {
+      "first_name": "Lahari111",
+      "last_name": "Kota",
+      "age": "2",
+      "city": "Amarapuram",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "id": "cNUXK0M"
+    },
+    {
+      "first_name": "Lahari",
+      "last_name": "Kota",
+      "age": "55",
+      "city": "Amarapuram",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "id": "_nd9rk0"
+    },
+    {
+      "first_name": "Lari",
+      "last_name": "Kota",
+      "age": "100000",
+      "city": "Amarapuram",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "id": "XbRt6Ar"
+    },
+    {
+      "first_name": "",
+      "last_name": "",
+      "age": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "id": "A58FNN4"
+    },
+    {
+      "first_name": "meena",
+      "last_name": "kota",
+      "age": "33",
+      "city": "yanam",
+      "state": "andhra",
+      "country": "India",
+      "id": "p58b9o6"
+    }
+  ]
+}
